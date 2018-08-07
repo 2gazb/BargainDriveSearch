@@ -154,3 +154,4 @@ tests for CakePHP by doing the following:
 
 1. Copy `phpunit.xml.dist` to `phpunit.xml`
 2. Run `phpunit`
+# BargainDriveSearch
